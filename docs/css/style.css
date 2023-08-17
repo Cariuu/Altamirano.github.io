@@ -52,6 +52,11 @@ header img {
     border-radius: 10px;
     margin: 10px;
 }
+p {
+  text-align: justify;
+  line-height: 1.5; /* Ajusta este valor para controlar el espacio entre líneas */
+}
+
 
 .skill-item {
     display: flex;
